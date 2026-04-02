@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
+
+
+
+.corpo{
+     background-color: brown;
+     color: cornflowerblue;
+
+}
+
+#erro {
+    color: red;
+}
